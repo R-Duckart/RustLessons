@@ -1,8 +1,3 @@
-Bien sûr 🙂
-Voici **la version anglaise**, fidèle au fond et au ton, naturelle pour un public tech anglophone :
-
----
-
 ### Lazy developers? No. But sometimes over-assisted.
 
 Developers are often described as lazy.
@@ -68,10 +63,3 @@ A good developer is someone who **could work without them**, because they unders
 
 That technical culture and level of care is what separates *building fast* from *building well*.
 
----
-
-Si tu veux, je peux aussi te faire :
-
-* une version **plus courte / punchy** pour Hacker News,
-* une version **plus technique** (VMs, abstractions, hidden costs),
-* ou une version **plus provocatrice** 😉
